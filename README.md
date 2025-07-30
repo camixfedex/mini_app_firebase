@@ -1,7 +1,7 @@
 ## # Mini-App Flutter con Formulario Validado y Autenticación con Firebase
 Este proyecto es una mini-aplicación móvil desarrollada en Flutter que demuestra la implementación de un formulario de ingreso de datos con validaciones, manejo de estado con setState, y autenticación de usuarios (registro e inicio de sesión) utilizando Firebase Authentication. Además, los datos ingresados en el formulario son persistidos en Firebase Firestore y se muestran en tiempo real.
 
-#### Características Principales
+### Características Principales
 **Autenticación de Usuarios:** Permite a los usuarios registrarse e iniciar sesión con su correo electrónico y contraseña utilizando Firebase Authentication.
 
 **Formulario de Datos Personales:** Incluye un formulario para ingresar nombre, edad y correo electrónico.
@@ -16,7 +16,7 @@ Este proyecto es una mini-aplicación móvil desarrollada en Flutter que demuest
 
 **Interfaz Amigable:** Diseño simple y funcional para una buena experiencia de usuario.
 
-#### Uso del Formulario y Autenticación
+### Uso del Formulario y Autenticación
 **Autenticación**
 Al iniciar la aplicación, serás dirigido a la pantalla de Inicio de Sesión.
 
@@ -24,7 +24,7 @@ Al iniciar la aplicación, serás dirigido a la pantalla de Inicio de Sesión.
 
 **Inicio de Sesión:** Una vez registrado, regresa a la pantalla de Inicio de Sesión e ingresa tus credenciales. Si el inicio de sesión es exitoso, serás redirigido a la pantalla de Datos Personales y verás un mensaje de bienvenida con tu correo electrónico o ID de usuario.
 
-#### Formulario de Datos Personales
+### Formulario de Datos Personales
 Una vez dentro de la aplicación, en la pantalla de "Datos Personales", encontrarás el formulario para ingresar tu información:
 
 **Nombre:** Campo de texto obligatorio para tu nombre.
